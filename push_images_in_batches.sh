@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # CONFIG
-BATCH_SIZE=1000
-IMG_DIR="dataset/labels/val"
+BATCH_SIZE=5000
+IMG_DIR="dataset/labels/train"
 COMMIT_PREFIX="Add batch"
 counter=0
 batch=1

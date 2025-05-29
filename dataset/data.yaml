@@ -1,0 +1,37 @@
+path: dataset
+train: images/train
+val: images/val
+nc: 32
+names:
+  - Beans
+  - Beef
+  - Bell pepper
+  - Blueberry
+  - Butter
+  - Cantaloupe
+  - Cauliflower
+  - Cherry
+  - Chicken
+  - Corn
+  - Crab
+  - Cucumber
+  - Egg
+  - Eggplant
+  - Kiwi
+  - Lettuce
+  - Mango
+  - Milk
+  - Onion
+  - Papaya
+  - Pasta
+  - Peach
+  - Pear
+  - Pineapple
+  - Plum
+  - Pomegranate
+  - Pork
+  - Potato
+  - Radish
+  - Rice
+  - Watermelon
+  - Zucchini
